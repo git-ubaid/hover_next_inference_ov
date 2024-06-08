@@ -6,4 +6,4 @@ dependencies:
   - python=3.11.5
   - openslide
   - pip:
-    - -r file:requirements.txt
+    - -r requirements.txt
